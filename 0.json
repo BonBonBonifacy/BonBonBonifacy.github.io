@@ -1,0 +1,591 @@
+﻿{
+    "spider": "http://bon.eu5.org/bili.jar;md5;c5c337bb2793598e9aa5953898fbb087",
+    "wallpaper": "http://bon.eu5.org/wallpaper.php", //自建壁纸
+    "wallpaper": "http://api.cucldk.com/bing.php", //bing壁纸
+    "wallpaper": "https://picsum.photos/1280/720/?blur=10", //模糊壁纸
+    
+    "sites": [
+        {
+            "key": "Bili",
+            "name": "🅱️哔哩套餐〔SP〕",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/哔
+
+哩.json"
+        },
+        {
+            "key": "csp_吾爱B站",
+            "name": "🅱吾爱B站(SP)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://agit.ai/kuku/kot/raw/branch/master/bilibili.json"
+        },
+        {
+            "key": "学堂",
+            "name": "🏯学堂教育〔合集〕",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/学
+
+堂.json"
+        },
+        {
+            "key": "演唱会",
+            "name": "🍟演唱会〔合集〕",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/演
+
+唱会.json"
+        },
+        {
+            "key": "戏曲",
+            "name": "📽戏曲〔合集〕",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/戏
+
+曲.json"
+        },
+        {
+            "key": "幼儿乐园",
+            "name": "📚幼儿乐园（B站）",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://ftyyy.tk/json/幼儿乐园.json"
+        },
+        {
+            "key": "少儿教育",
+            "name": "📚少儿教育（B站）",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://ftyyy.tk/json/少儿教育.json"
+        },
+        {
+            "key": "小学课堂",
+            "name": "📚小学课堂（B站）",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://ftyyy.tk/json/小学课堂.json"
+        },
+        {
+            "key": "高中教育",
+            "name": "📚高中课堂（B站）",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://ftyyy.tk/json/高中课堂.json"
+        },
+        {
+            "key": "初中课堂",
+            "name": "📚初中课堂（B站）",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://ftyyy.tk/json/初中课堂.json"
+        },
+        {
+            "key": "幼儿乐园",
+            "name": "儿童乐园",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://gitea.com/zwx/itv/raw/branch/dev/jy/yely.txt"
+        },
+        {
+            "key": "少儿教育",
+            "name": "少儿教育",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://gitea.com/zwx/itv/raw/branch/dev/jy/sejy.txt"
+        },
+        {
+            "key": "小学课堂",
+            "name": "小学学习",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://gitea.com/zwx/itv/raw/branch/dev/jy/xxxx.txt"
+        },
+        {
+            "key": "初中课堂",
+            "name": "初中学习",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://gitea.com/zwx/itv/raw/branch/dev/jy/czxx.txt"
+        },
+        {
+            "key": "高中教育",
+            "name": "高中学习",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://gitea.com/zwx/itv/raw/branch/dev/jy/gzxx.txt"
+        },
+        {
+            "key": "美食",
+            "name": "美食乐欢",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://gitea.com/zwx/itv/raw/branch/dev/jy/meishi.json",
+            "jar": "https://gitea.com/zwx/itv/raw/branch/dev/jar/bl.jar"
+        },
+        {
+            "key": "球类",
+            "name": "体育球类",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://gitea.com/zwx/itv/raw/branch/dev/jy/qiulei.txt",
+            "jar": "https://gitea.com/zwx/itv/raw/branch/dev/jar/bl.jar"
+        },
+        {
+            "key": "UP主",
+            "name": "我爱测评",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://gitea.com/zwx/itv/raw/branch/dev/jy/ceping.txt",
+            "jar": "https://gitea.com/zwx/itv/raw/branch/dev/jar/bl.jar"
+        },
+        {
+            "key": "EXCEL",
+            "name": "表格学习",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://gitea.com/zwx/itv/raw/branch/dev/jy/biaoge.txt",
+            "jar": "https://gitea.com/zwx/itv/raw/branch/dev/jar/bl.jar"
+        },
+        {
+            "key": "csp_xpath_A33",
+            "name": "音乐在线",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://gitea.com/zwx/itv/raw/branch/dev/v/mtv.json"
+        },
+        {
+            "key": "csp_Biliych",
+            "name": "演唱现场",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://gitea.com/zwx/itv/raw/branch/dev/v/bliyc.json"
+        },
+        {
+            "key": "美食",
+            "name": " 🍲美食〔合集〕",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/美
+
+食.json"
+        },
+        {
+            "key": "少儿",
+            "name": "🅰️少儿〔合集〕",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/少
+
+儿教育.json"
+        },
+        {
+            "key": "体育",
+            "name": "💋体育〔合集〕",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/体
+
+育.json"
+        },
+        {
+            "key": "球类",
+            "name": "⚽️球类〔合集〕",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/球
+
+类.json"
+        },
+        {
+            "key": "棋牌",
+            "name": " 🅿️棋牌娱乐〔合集〕",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/棋
+
+牌.json"
+        },
+        {
+            "key": "教程",
+            "name": "🏧教程〔合集〕",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/教
+
+程.json"
+        },
+        {
+            "key": "MV",
+            "name": "💽歌曲MV〔合集〕",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/歌
+
+曲MV.json"
+        },
+        {
+            "key": "csp_XYQBiu_分享短视频",
+            "name": "💠分享短视频〔XYQ〕",
+            "type": 3,
+            "api": "csp_XYQBiu",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/短
+
+视频.json",
+            "jar": "http://maoyingshi.cc/tvbox/云星日记/jar/短视
+
+频.jar"
+        },
+        {
+            "key": "csp_BBB",
+            "name": "哔哩哔哩",
+            "type": 3,
+            "api": "csp_BBB",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }
+    ],
+    "parses": [
+        {
+            "name": "解析聚合",
+            "type": 3,
+            "url": "Demo"
+        },
+        {
+            "name": "Json并发",
+            "type": 2,
+            "url": "Parallel"
+        },
+        {
+            "name": "Json轮询",
+            "type": 2,
+            "url": "Sequence"
+        }
+    ],
+    "flags": [
+        "youku",
+        "qq",
+        "iqiyi",
+        "qiyi",
+        "letv",
+        "sohu",
+        "tudou",
+        "pptv",
+        "mgtv",
+        "wasu",
+        "bilibili",
+        "renrenmi"
+    ],
+    "ijk": [
+        {
+            "group": "软解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        },
+        {
+            "group": "硬解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        }
+    ],
+    "ads": [
+        "mimg.0c1q0l.cn",
+        "www.googletagmanager.com",
+        "www.google-analytics.com",
+        "mc.usihnbcq.cn",
+        "mg.g1mm3d.cn",
+        "mscs.svaeuzh.cn",
+        "cnzz.hhttm.top",
+        "tp.vinuxhome.com",
+        "cnzz.mmstat.com",
+        "www.baihuillq.com",
+        "s23.cnzz.com",
+        "z3.cnzz.com",
+        "c.cnzz.com",
+        "stj.v1vo.top",
+        "z12.cnzz.com",
+        "img.mosflower.cn",
+        "tips.gamevvip.com",
+        "ehwe.yhdtns.com",
+        "xdn.cqqc3.com",
+        "www.jixunkyy.cn",
+        "sp.chemacid.cn",
+        "hm.baidu.com",
+        "s9.cnzz.com",
+        "z6.cnzz.com",
+        "um.cavuc.com",
+        "mav.mavuz.com",
+        "wofwk.aoidf3.com",
+        "z5.cnzz.com",
+        "xc.hubeijieshikj.cn",
+        "tj.tianwenhu.com",
+        "xg.gars57.cn",
+        "k.jinxiuzhilv.com",
+        "cdn.bootcss.com",
+        "ppl.xunzhuo123.com",
+        "xomk.jiangjunmh.top",
+        "img.xunzhuo123.com",
+        "z1.cnzz.com",
+        "s13.cnzz.com",
+        "xg.huataisangao.cn",
+        "z7.cnzz.com",
+        "xg.huataisangao.cn",
+        "z2.cnzz.com",
+        "s96.cnzz.com",
+        "q11.cnzz.com",
+        "thy.dacedsfa.cn",
+        "xg.whsbpw.cn",
+        "s19.cnzz.com",
+        "z8.cnzz.com",
+        "s4.cnzz.com",
+        "f5w.as12df.top",
+        "ae01.alicdn.com",
+        "www.92424.cn",
+        "k.wudejia.com",
+        "vivovip.mmszxc.top",
+        "qiu.xixiqiu.com",
+        "cdnjs.hnfenxun.com",
+        "cms.qdwght.com"
+    ]
+}
