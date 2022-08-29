@@ -13,7 +13,7 @@
                 {
                     "name": "live",
                     "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vcWlhb2ppL2phci9yYXcvYnJhbmNoL21haW4vemIudHh0"
+                        "proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="
                     ]
                 }
             ]
@@ -316,24 +316,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_Cokemv",
-            "name": "📕Cokemv(SP)",
-            "type": 3,
-            "api": "csp_Cokemv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "csp_剧荒",
-            "name": "👿剧荒(SP)",
-            "type": 3,
-            "api": "csp_Juhuang",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Auete",
             "name": "🏝Auete(SP)",
             "type": 3,
@@ -341,18 +323,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "csp_biubiu_特狗影视",
-            "name": "特狗影视",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E7%89%B9%E7%8B
-
-%97%E5%BD%B1%E8%A7%86.json"
         },
         {
             "key": "影图",
@@ -1656,16 +1626,6 @@
             "ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/hancheng.json"
         },
         {
-            "key": "csp_xpath_libv",
-            "name": "Libvio(XPF)",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/libv.json"
-        },
-        {
             "key": "csp_xpath_cokemv",
             "name": "Cokemv(XPF)",
             "type": 3,
@@ -2224,16 +2184,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/huigutongying.json"
-        },
-        {
-            "key": "csp_xpath_juhuang",
-            "name": "剧荒TV(XPMac)",
-            "type": 3,
-            "api": "csp_XPathMac",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/juhuang.json"
         },
         {
             "key": "csp_xpath_doujiaow",
