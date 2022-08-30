@@ -1,5 +1,6 @@
 ﻿{
     "spider": "http://bon.eu5.org/0.jar",
+    "spider": "http://bon.eu5.org/1.jar", 
     //自建壁纸"wallpaper": "http://bon.eu5.org/wallpaper.php",
     //bing随机壁纸//"wallpaper": "http://api.cucldk.com/bing.php",
     //模糊壁纸//"wallpaper": "https://picsum.photos/1280/720/?blur=10",
