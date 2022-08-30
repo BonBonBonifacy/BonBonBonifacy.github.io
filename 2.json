@@ -1,4 +1,5 @@
 {
+    "spider": "http://bon.eu5.org/0.jar",
     "spider": "http://bon.eu5.org/1.jar",
     "spider": "http://bon.eu5.org/2.jar;md5;B45C4ECEA82BFE22D3E8B86A69E04407",
     "spider": "http://bon.eu5.org/3.jar;md5;F49657B939A9134AD6B947CCB9390E99",
