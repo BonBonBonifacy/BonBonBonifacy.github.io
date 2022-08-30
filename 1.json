@@ -4,6 +4,7 @@
     "spider": "http://bon.eu5.org/2.jar;md5;B45C4ECEA82BFE22D3E8B86A69E04407",
     "spider": "http://bon.eu5.org/3.jar;md5;F49657B939A9134AD6B947CCB9390E99",
     "spider": "http://bon.eu5.org/4.jar;md5;3550969fb9a34fa1136d98c3e33f03a1",
+    "spider": "http://bon.eu5.org/5.jar",
     //自建壁纸"wallpaper": "http://bon.eu5.org/wallpaper.php",
     //bing随机壁纸//"wallpaper": "http://api.cucldk.com/bing.php",
     //模糊壁纸//"wallpaper": "https://picsum.photos/1280/720/?blur=10",
@@ -85,6 +86,15 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "3781469b13074e4cac1e0e7113e4fa20"
+        },
+        {
+            "key":"csp_Kunyu77",
+            "name":"👒七七(SP)",
+            "type":3,
+            "api":"csp_Kunyu77",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
         },
         {
             "key": "csp_Alips",
