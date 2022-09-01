@@ -1,10 +1,11 @@
-﻿{
-    "spider": "http://bon.eu5.org/0.jar",
-    "spider": "http://bon.eu5.org/1.jar",
-    "spider": "http://bon.eu5.org/2.jar;md5;B45C4ECEA82BFE22D3E8B86A69E04407",
-    "spider": "http://bon.eu5.org/3.jar;md5;F49657B939A9134AD6B947CCB9390E99",
-    "spider": "http://bon.eu5.org/4.jar;md5;3550969fb9a34fa1136d98c3e33f03a1",
-    "wallpaper": "http://bon.eu5.org/wallpaper.php",
+{
+    "spider": "http://bon.eu5.org/jar/0.jar;md5;2f19c527b9a335fb1415c5f9686515c8",
+     "spider": "http://bon.eu5.org/jar/1.jar;md5;e5b305191b8a3118bfede03a27143c19",
+    "spider": "http://bon.eu5.org/jar/2.jar;md5;B45C4ECEA82BFE22D3E8B86A69E04407",
+    "spider": "http://bon.eu5.org/jar/3.jar;md5;F49657B939A9134AD6B947CCB9390E99",
+    "spider": "http://bon.eu5.org/jar/4.jar;md5;3550969fb9a34fa1136d98c3e33f03a1",
+
+    "wallpaper": "https://bon.eu5.org/wallpaper.php",
     //"wallpaper": "http://api.cucldk.com/bing.php",
     //"wallpaper": "https://picsum.photos/1280/720/?blur=10",
     "lives": [
@@ -243,6 +244,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "csp_Kunyu77",
+            "name": "👒七七(SP)",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://bon.eu5.org/jar/77.jar"
         },
         {
             "key": "csp_SP360",
