@@ -1,6 +1,6 @@
-﻿{
-    "spider": "http://bon.eu5.org/bili.jar;md5;c5c337bb2793598e9aa5953898fbb087",
-    "wallpaper": "http://bon.eu5.org/wallpaper.php", //自建壁纸
+{
+    "spider": "https://bon.eu5.org/jar/bili.jar;md5;c5c337bb2793598e9aa5953898fbb087",
+    "wallpaper": "https://bon.eu5.org/wallpaper.php", //自建壁纸
     "wallpaper": "http://api.cucldk.com/bing.php", //bing壁纸
     "wallpaper": "https://picsum.photos/1280/720/?blur=10", //模糊壁纸
     
